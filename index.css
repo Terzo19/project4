@@ -33,6 +33,9 @@
   }
   
   nav ul{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;  
     float: right;
     padding-top: 20px;
     padding-right: 20px;

@@ -28,7 +28,7 @@
     justify-content: space-between;
     width: 100%;
     max-height: 69px;
-    overflow: scroll;
+    overflow-x: scroll;
     scrollbar-width: none;
   }
   

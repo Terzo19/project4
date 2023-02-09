@@ -42,6 +42,7 @@
     display: inline;
     padding-left: 15px;
     font-size: 22px;
+    white-space:nowrap;
   }
   
   nav ul li a{
